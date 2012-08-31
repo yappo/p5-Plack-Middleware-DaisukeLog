@@ -1,0 +1,17 @@
+NAME
+    Plack::Middleware::DaisukeLog -
+
+SYNOPSIS
+        use Plack::Middleware::DaisukeLog;
+
+DESCRIPTION
+    Plack::Middleware::DaisukeLog is
+
+AUTHOR
+    Kazuhiro Osawa <yappo {at} shibuya {dot} pl>
+
+SEE ALSO
+LICENSE
+    This library is free software; you can redistribute it and/or modify it
+    under the same terms as Perl itself.
+
