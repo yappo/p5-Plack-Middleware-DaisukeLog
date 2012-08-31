@@ -5,7 +5,8 @@ readme_from 'lib/Plack/Middleware/DaisukeLog.pm';
 readme_markdown_from 'lib/Plack/Middleware/DaisukeLog.pm';
 githubmeta;
 
-# requires '';
+requires 'parent';
+requires 'Plack::Middleware::AccessLog';
 
 tests 't/*.t';
 author_tests 'xt';
