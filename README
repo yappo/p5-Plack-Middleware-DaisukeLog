@@ -1,5 +1,7 @@
 NAME
-    Plack::Middleware::DaisukeLog -
+    Plack::Middleware::DaisukeLog - warn
+    出力があった時� け、アクセス�グと一緒に warn
+    出力� す君
 
 SYNOPSIS
         use Plack::Middleware::DaisukeLog;

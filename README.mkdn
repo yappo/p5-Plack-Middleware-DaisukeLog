@@ -1,6 +1,6 @@
 # NAME
 
-Plack::Middleware::DaisukeLog -
+Plack::Middleware::DaisukeLog - warn 出力があった時だけ、アクセスログと一緒に warn 出力だす君
 
 # SYNOPSIS
 
